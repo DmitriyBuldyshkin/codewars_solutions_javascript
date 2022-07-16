@@ -1,2 +1,2 @@
-# codewars_solutions_javascript
-Codewars solutions in Javascript
+# Codewars solutions in Javascript
+
